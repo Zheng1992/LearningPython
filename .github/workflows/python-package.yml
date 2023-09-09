@@ -1,6 +1,6 @@
 # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
+#此工作流将安装Python依赖项，运行测试并使用各种Python版本进行lint
 name: Python package
 
 on:
